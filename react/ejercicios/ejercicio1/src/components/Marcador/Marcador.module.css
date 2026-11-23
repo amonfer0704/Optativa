@@ -1,0 +1,11 @@
+.equipoLocal, .equipoVisitante, .puntos{
+    font-size: 4rem;
+}
+
+.equipoLocal{
+    border: 2px solid var(--color-local);
+}
+
+.equipoVisitante{
+    border: 2px solid var(--color-visitante);
+}

@@ -1,0 +1,17 @@
+.claseCard{
+    width: 25%;
+    height: 20%;
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 10px 5px gainsboro;
+}
+
+.claseHeader{
+    font-size: larger;
+    font-weight: bolder;
+    color: blueviolet;
+}
+
+.classBody{
+    text-align: center;
+}
